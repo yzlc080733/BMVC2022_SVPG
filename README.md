@@ -23,3 +23,15 @@ Here are some of the parameters. See `parser` in the codes for more settings.
   
 
 Logs are stored in the `./log/` folder. Create it if it does not exist.
+
+## Explanations
+
+### MNIST
+
+`MN_SVPG.py`, `MN_SVPG_shrink.py`:
+
+Python codes respectively for the SVPG and SVPG-shrink methods.
+
+`MNWTArate_nop.py`, `MNWTAuni_nop.py`, `MNWTAdexp_nop.py`:
+
+Python codes for the comparison of the three implementations of SVPG, respectively rate coded with noise, spike coded with rectangle window, and spike coded with double exponential window.
