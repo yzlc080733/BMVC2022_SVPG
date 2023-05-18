@@ -6,6 +6,8 @@ Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner
 
 Citation at the bottom of this [link to paper](https://bmvc2022.mpi-inf.mpg.de/358/).
 
+Note: An updated version of the experiments is available at [this repository](https://github.com/yzlc080733/SVPG2023).
+
 ## Prerequisites
 
 System requirements: tested on Ubuntu 18.04, NVIDIA Geforce 3080, 32GB RAM, Anaconda3.
