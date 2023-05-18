@@ -1,10 +1,10 @@
 # BMVC2022_SVPG
 
-This repository contains some basic (easy to run) codes for the experiments in the BMVC paper:
+This repository contains some basic (easy to run) codes for the experiments in the BMVC 2022 paper:
 
-No. 358
+Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks
 
-[Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks](https://bmvc2022.mpi-inf.mpg.de/358/)
+No. 358. Citation at the bottom of this [link to paper](https://bmvc2022.mpi-inf.mpg.de/358/).
 
 ## Prerequisites
 
