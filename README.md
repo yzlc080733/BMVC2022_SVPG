@@ -4,7 +4,7 @@ This repository contains some basic (easy to run) codes for the experiments in t
 
 Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks
 
-No. 358. Citation at the bottom of this [link to paper](https://bmvc2022.mpi-inf.mpg.de/358/).
+Citation at the bottom of this [link to paper](https://bmvc2022.mpi-inf.mpg.de/358/).
 
 ## Prerequisites
 
